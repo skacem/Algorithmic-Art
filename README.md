@@ -1,7 +1,7 @@
 # Generative Art
 
 ## Patterns in Chaos and the Beauty of Fractals
-These images were generated using `matplotlib` and `seaboan` based on basic fractal algorithms.  
+These images were generated using `matplotlib` and `seaborn` based on basic fractal algorithms.  
 Make sure you have `numpy` installed if you want to try them out.
 ### Multi-Pendulum Harmonograph
 <img src="img/harmonograph1.png" alt="Harmonograph simulation" width = 360px height = 360px>
