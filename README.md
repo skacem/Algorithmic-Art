@@ -24,3 +24,6 @@ Make sure you have `numpy` installed if you want to try them out.
 ### Mandelbrot Sets / [Repo](mandelbrot.ipynb)
 <img src="img/mandelbrot3.png" alt="Mandelbrot zoomed" width = 360px height = 360px>
 <img src="img/mandelbrot2.png" alt="Mandelbrot set" width = 360px height = 360px>
+
+### Voronoi Tessellation / [Repo](voronoi_diagram.ipynb)
+<img src="img/voronoi_delaunay_diagram.png" alt="Voronoi diagram" width = 360px height = 360px>
