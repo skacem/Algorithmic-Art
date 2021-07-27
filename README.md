@@ -8,7 +8,7 @@ Make sure you have `numpy` installed if you want to try them out.
 <img src="img/harmonograph2.png" alt="Multi-pendulum simulation result" width = 360px height = 360px>
 <img src="img/harmonograph3.png" alt="Multi-pendulum simulation result" width = 360px height = 360px>
 
-### Filled-in Julia Set / [Repo](filled-julia.ipynb)
+### Filled-in Julia Set / [Repo](julia-set.ipynb)
 <img src="img/julia1.png"  alt="Filled in Julia set figure" width = 360px height = 360px>
 <img src="img/julia2.png" alt="Filled in Julia set picture" width = 360px height = 360px>
 <img src="img/julia3.png" alt="Filled-in Julia set picture" width = 360px height = 360px>
