@@ -3,6 +3,11 @@
 ## Patterns in Chaos and the Beauty of Fractals
 These images were generated using `matplotlib` and `seaborn` based on basic fractal algorithms.  
 Make sure you have `numpy` installed if you want to try them out.
+
+### Joy Division Album Cover / [Notebook](Joy_Devision.ipynb)
+
+<img src="img/joy.png" alt="Joy Division album cover using seaborn" width = 360px height = 360px>
+
 ### Multi-Pendulum Harmonograph / [Notebook](Multi-pendulum_Harmonograph.ipynb)
 <img src="img/harmonograph1.png" alt="Harmonograph simulation" width = 360px height = 360px>
 <img src="img/harmonograph2.png" alt="Multi-pendulum simulation result" width = 360px height = 360px>
